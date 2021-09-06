@@ -41,4 +41,4 @@ If you're experiencing slow connections at certain times of day but not others, 
 
 ## Troubleshooting with {% data variables.product.prodname_debug %}
 
-If you've followed all of the troubleshooting suggestions above and are still having connection problems, you can follow the instructions on the {% data variables.product.prodname_debug %} site to run tests and send a report to {% data variables.product.prodname_dotcom %} Support. For more information, see [{% data variables.product.prodname_debug %}](https://github-debug.com/).
+If you've followed all of the troubleshooting suggestions above and are still having connection problems, you can follow the instructions on the {% data variables.product.prodname_debug %} site to run tests and send a report to {% data variables.product.prodname_dotcom %} Support. For more information, see [{% data variables.product.prodname_debug %}]().
